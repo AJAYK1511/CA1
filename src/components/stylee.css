@@ -1,0 +1,23 @@
+.one
+{
+    text-align: center;
+    color: rgb(212, 23, 23);
+    border:2px solid yellowgreen;
+    border-radius: 5px;
+    margin: 10px;
+    width: 508px;
+}
+.w
+{
+    border: 2px solid brown;
+    border-radius: 3px;
+    padding: 2px;
+    width: 460px;
+    margin: 20px;
+}
+p{
+    align:center;
+    padding: 20px;
+    /* background-color: aquamarine; */
+    margin: 100px;
+}

@@ -1,0 +1,17 @@
+/* @import 'animate.css'; */
+#block{
+    display: none;
+}
+#box{
+    background-color: black;
+    width: 200px;
+    height: 50px;
+    border:1px solid white;
+}
+.ele{
+    border:1px solid white;
+    width: 200px;
+    height: 95px;
+    /* animation-name: fadeInDown; */
+    /* animation-duration: 40ms; */
+}
